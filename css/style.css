@@ -376,7 +376,7 @@ h6 {　
 }
 
 #mobile-nav-toggle i {
-  color: #fff;
+  color: #4c4c4c;
 }
 
 /* Mobile Nav Styling */
@@ -405,7 +405,7 @@ h6 {　
 }
 
 #mobile-nav ul li a {
-  color: #fff;
+  color: #4c4c4c;
   font-size: 17px;
   overflow: hidden;
   padding: 10px 22px 10px 15px;
@@ -430,7 +430,7 @@ h6 {　
   z-index: 99;
   padding: 15px;
   cursor: pointer;
-  color: #fff;
+  color: #4c4c4c;
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
@@ -463,7 +463,7 @@ body.mobile-nav-active #mobile-nav {
 }
 
 body.mobile-nav-active #mobile-nav-toggle {
-  color: #fff;
+  color: #4c4c4c;
 }
 
 /*--------------------------------------------------------------
@@ -480,7 +480,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro img{
-  width: 8%;
+  width: auto;
 }
 
 #intro:before {
