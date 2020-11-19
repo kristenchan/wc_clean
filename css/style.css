@@ -18,7 +18,7 @@
 body {
   background: #fff;
   color: #2f3138;
-  font-family: "Open Sans", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
 }
 
 a {
@@ -73,7 +73,7 @@ h6 {　
 .back-to-top {
   position: fixed;
   display: none;
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900 /*#7ba1b5;*/ /*#f82249;*/
   color: #fff;
   width: 40px;
   height: 40px;
@@ -90,13 +90,13 @@ h6 {　
 }
 
 .back-to-top:focus {
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   color: #fff;
 }
 
@@ -115,7 +115,7 @@ h6 {　
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -172,14 +172,14 @@ h6 {　
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
 }
 
 #header #logo h1 span {
-  color: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  color: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #header #logo h1 a,
@@ -270,7 +270,7 @@ h6 {　
   text-decoration: none;
   display: inline-block;
   color: #4c4c4c;/*rgba(202, 206, 221, 0.8);*/
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-weight: 600;
   font-size: 14px;
   outline: none;
@@ -306,10 +306,10 @@ h6 {　
 
 .nav-menu li.enroll a {
   color: #fff;
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  border: 2px solid #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -350,7 +350,7 @@ h6 {　
 }
 
 .nav-menu ul li:hover > a {
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   color: #fff;
 }
 
@@ -417,7 +417,7 @@ h6 {　
 }
 
 #mobile-nav ul li a:hover {
-  color: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  color: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #mobile-nav ul li li {
@@ -434,11 +434,11 @@ h6 {　
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  color: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  color: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #mobile-body-overly {
@@ -514,7 +514,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro h1 {
   color: #4c4c4c;
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-size: 56px;
   font-weight: 400;
   text-transform: uppercase;
@@ -522,12 +522,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  color: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #intro h3 {
   color: #4c4c4c;
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-size: 26px;
   font-weight: 600;
   text-transform: uppercase;
@@ -535,7 +535,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h3 span {
-  color: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  color: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #intro p {
@@ -548,7 +548,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#ffb900 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -595,7 +595,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  border-left: 15px solid #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -620,7 +620,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .about-btn {
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -633,11 +633,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  border: 2px solid #ffb900; /*#7ba1b5;*/ /*#f82249;*/
 }
 
 #intro .about-btn:hover {
-  background: #f82249; /*#7ba1b5;*/ /*#ffb900;*/
+  background: #ffb900; /*#7ba1b5;*/ /*#f82249;*/
   color: #fff;
 }
 
@@ -727,7 +727,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #feature .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -737,7 +737,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #feature .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-size: 14px;
   color: #cce5ff;
 }
@@ -934,7 +934,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #flow .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -944,7 +944,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #flow .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-size: 14px;
   color: #cce5ff;
 }
@@ -1718,7 +1718,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 18px 0;
   display: block;
   position: relative;
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
@@ -1776,7 +1776,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Raleway", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   font-weight: 700;
   color: #4c4c4c;
 }
@@ -1790,7 +1790,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Open Sans", Microsoft JhengHei, sans-serif;
+  font-family: "Open Sans","Raleway", Microsoft JhengHei, sans-serif;
   color: #4c4c4c;
 }
 
