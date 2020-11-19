@@ -387,7 +387,7 @@ h6 {　
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: rgba(6, 12, 34, 0.9);
+  background: rgba(250, 251, 254, 0.98);
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -448,7 +448,7 @@ h6 {　
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(6, 12, 34, 0.8);
+  background: rgba(250, 251, 254, 0.98);/*rgba(6, 12, 34, 0.8);*/
   display: none;
 }
 
@@ -477,6 +477,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   overflow: hidden;
   position: relative;
+}
+
+#intro img{
+  width: 8%;
 }
 
 #intro:before {
