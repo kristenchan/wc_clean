@@ -2095,6 +2095,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 16px;
   }
 
+  #intro img{
+    max-width: 50%;
+  } 
+
   #schedule .nav-tabs a {
     padding: 8px 30px;
   }
@@ -2104,6 +2108,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   #subscribe button {
     margin-top: 10px;
   }
+
+  #intro img{
+    max-width: 50%;
+  } 
 }
 
 
@@ -2115,6 +2123,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   #intro h3 {
     font-size: 15px;
   }
+
+  #intro img{
+    max-width: 50%;
+  }  
 
   #schedule .nav-tabs a {
     padding: 8px 30px;
