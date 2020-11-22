@@ -970,6 +970,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #7ba1b5; /*#ffb900*/ /*#7ba1b5;*/ /*#f82249;*/
 }
 
+
+#flow .mt-3 h4 {
+  font-size: 22px;
+}
+
 #flow .card p {
   font-size: 15px;
   color: #124173;
@@ -981,7 +986,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: inline-block;
   transition: 0.3s ease-in-out;
   border-bottom: #4c4c4c solid 2px;
+  border-radius: 15px;
+  margin: 0 15px;
+  padding: 15px 0;
+  text-align: center;
+  height: 100%;
 }
+
 
 #flow .card .readmore:hover {
   border-bottom: #fff solid 2px;
