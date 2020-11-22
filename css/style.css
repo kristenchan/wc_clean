@@ -1369,6 +1369,24 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 1em;
 }
 
+#case .owl-nav,
+#case .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+#case .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd;
+}
+
+#case .owl-dot.active {
+  background-color: #7ba1b5; /*#ffb900*/ /*#7ba1b5;*/ /*#f82249;*/
+}
 
 /*--------------------------------------------------------------
 # Project Section
@@ -1442,7 +1460,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #project .testimonial-item .testimonial-footer p {
     text-align: center;
-    color: #999;
+    color: #FF80AB;
     font-weight: 400;
     font-size: 18px;
     margin: 0;
