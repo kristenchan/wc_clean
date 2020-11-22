@@ -1732,7 +1732,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #ddd;
 }
 
-#faq #faq-list ol li{
+#faq #faq-list ul li{
   border-bottom: 1px #fff;
 }
 
