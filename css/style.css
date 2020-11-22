@@ -507,7 +507,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro img{
-  width: 90%;
+  max-width: 80%;
 }
 
 #intro:before {
